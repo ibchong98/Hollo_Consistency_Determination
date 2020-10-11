@@ -4,9 +4,9 @@
 
 1. Preprocessing the data (.py)  //Takes a time
 
-2. Parameter determination (.ipynb)
+2. Parameter determination (Param_determination) (.ipynb)
 
-3. Consistency determination programme (.py)
+3. Consistency determination programme (CDP) (.py)
 
 4. Report (.doc)
 
